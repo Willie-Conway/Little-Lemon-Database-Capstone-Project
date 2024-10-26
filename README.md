@@ -26,11 +26,11 @@ This project is part of the Meta Database Engineer Professional Certificate prog
 The data model visually represents the entities involved in the Little Lemon database and their relationships. Key components include:
 
 - **Entities**:
-  - `**Customers**`: Information about the restaurant's patrons.
-  - `**Orders**`: Details of customer orders.
-  - `**Menus**`: Items available for order.
-  - `**MenuItems**`: Specific items within each menu.
-  - `**Bookings**`: Reservations made by customers.
+  - **Customers**: Information about the restaurant's patrons.
+  - **Orders**: Details of customer orders.
+  - **Menus**: Items available for order.
+  - **MenuItems**: Specific items within each menu.
+  - **Bookings**: Reservations made by customers.
 
 ### Data Model Characteristics
 
@@ -225,6 +225,6 @@ This capstone project for Little Lemon integrates database design, SQL implement
 
 ## Acknowledgments
 
-* Thanks to Meta for the training and resources provided.
+* Thanks to **Meta** for the training and resources provided.
 * Special gratitude to mentors and peers for their support and collaboration throughout the project.
 
