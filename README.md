@@ -10,6 +10,20 @@
 
 This project is part of the Meta Database Engineer Professional Certificate program. It involves designing and implementing a database system for the fictional restaurant "Little Lemon." The project encompasses database modeling, SQL query creation, and data analysis using Tableau, providing insights into business performance and customer behavior.
 
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Project Components](#project-components)
+3. [Little Lemon Data Model](#little-lemon-data-model)
+4. [Deploying the Data Model in MySQL](#deploying-the-data-model-in-mysql)
+5. [SQL Queries](#sql-queries)
+6. [Data Analytics with Tableau](#data-analytics-with-tableau)
+7. [Client Project Setup with Python](#client-project-setup-with-python)
+8. [Conclusion](#conclusion)
+9. [Acknowledgments](#acknowledgments)
+10. [Exercises](#exercises)
+
+
 ## Project Components
 
 1. **Database Design and Implementation**🗃️
@@ -232,3 +246,28 @@ This capstone project for Little Lemon integrates database design, SQL implement
 * Thanks to **Meta** for the training and resources provided.🙏
 * Special gratitude to mentors and peers for their support and collaboration throughout the project.🤝
 
+## Exercises
+
+The following exercises were used as steps to complete the project in the correct order:
+
+1. [Setting Up the Database](#setting-up-the-database)
+2. [Create a Virtual Table to Summarize Data](#create-a-virtual-table-to-summarize-data)
+3. [Create Optimized Queries to Manage and Analyze Data](#create-optimized-queries-to-manage-and-analyze-data)
+4. [Create SQL Queries to Check Available Bookings Based on User Input](#create-sql-queries-to-check-available-bookings-based-on-user-input)
+5. [Create SQL Queries to Add and Update Bookings](#create-sql-queries-to-add-and-update-bookings)
+6. [Set Up the Tableau Workspace for Data Analysis](#set-up-the-tableau-workspace-for-data-analysis)
+7. [Create Interactive Dashboard for Sales and Profits](#create-interactive-dashboard-for-sales-and-profits)
+8. [Set Up the Client Project](#set-up-the-client-project)
+9. [Add Query Functions](#add-query-functions)
+
+<!--
+1. [Setting Up the Database](path/to/setting-up-the-database.md)
+2. [Create a Virtual Table to Summarize Data](path/to/create-a-virtual-table-to-summarize-data.md)
+3. [Create Optimized Queries to Manage and Analyze Data](path/to/create-optimized-queries-to-manage-and-analyze-data.md)
+4. [Create SQL Queries to Check Available Bookings Based on User Input](path/to/create-sql-queries-to-check-available-bookings-based-on-user-input.md)
+5. [Create SQL Queries to Add and Update Bookings](path/to/create-sql-queries-to-add-and-update-bookings.md)
+6. [Set Up the Tableau Workspace for Data Analysis](path/to/set-up-the-tableau-workspace-for-data-analysis.md)
+7. [Create Interactive Dashboard for Sales and Profits](path/to/create-interactive-dashboard-for-sales-and-profits.md)
+8. [Set Up the Client Project](path/to/set-up-the-client-project.md)
+9. [Add Query Functions](path/to/add-query-functions.md)
+-->
