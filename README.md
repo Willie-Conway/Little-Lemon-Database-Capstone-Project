@@ -39,7 +39,7 @@ This project is part of the **Meta Database Engineer Professional Certificate** 
 3. **Data Analytics**📈
    - Utilized Tableau for data visualization, creating various charts and dashboards that provide insights into sales trends, customer behavior, and cuisine performance.
 
-## Little Lemon Data Model
+## 🍋Little Lemon Data Model
 
 The data model visually represents the entities involved in the Little Lemon database and their relationships. Key components include:
 
