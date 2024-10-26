@@ -12,17 +12,17 @@ This project is part of the Meta Database Engineer Professional Certificate prog
 
 ## Project Components
 
-1. **Database Design and Implementation**
+1. **Database Design and Implementation**🗃️
    - Developed a logical data model representing the key entities and their relationships.
    - Deployed the physical data model in MySQL using the Forward Engineer method in MySQL Workbench.
 
-2. **SQL Queries**
+2. **SQL Queries**💻
    - Created various SQL queries for data management and summarization, including:
      - Creating views for simplified data access
      - Using JOINs to extract comprehensive data from multiple tables
      - Defining stored procedures for booking management
 
-3. **Data Analytics**
+3. **Data Analytics**📈
    - Utilized Tableau for data visualization, creating various charts and dashboards that provide insights into sales trends, customer behavior, and cuisine performance.
 
 ## Little Lemon Data Model
@@ -229,6 +229,6 @@ This capstone project for Little Lemon integrates database design, SQL implement
 
 ## Acknowledgments
 
-* Thanks to **Meta** for the training and resources provided.
-* Special gratitude to mentors and peers for their support and collaboration throughout the project.
+* Thanks to **Meta** for the training and resources provided.🙏
+* Special gratitude to mentors and peers for their support and collaboration throughout the project.🤝
 
