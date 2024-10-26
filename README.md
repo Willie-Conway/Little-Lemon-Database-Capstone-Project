@@ -167,19 +167,19 @@ END;
 Created a bar chart visualizing customer sales for amounts over `$70`.
 
 ### Task 2: Sales Trend Line Chart
-![Sales Trend Line Chart](path/to/sales-trend-line-chart.png)  
+![Sales Trend Line Chart](https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Create%20interactive%20dashboard%20for%20sales%20and%20profits/Screenshots/Screenshot%202024-09-29%20012824.png)  
 Displayed the sales trend from `2019` to `2022`, showcasing overall performance changes.
 
 ### Task 3: Sales Bubble Chart
-![Sales Bubble Chart](path/to/sales-bubble-chart.png)  
+![Sales Bubble Chart](https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Create%20interactive%20dashboard%20for%20sales%20and%20profits/Screenshots/Screenshot%202024-09-29%20020905.png)  
 Developed a `bubble` chart representing sales data, with customer names and profit information displayed on hover.
 
 ### Task 4: Cuisine Sales Comparison
-![Cuisine Sales Comparison](path/to/cuisine-sales-comparison.png)  
+![Cuisine Sales Comparison](https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Create%20interactive%20dashboard%20for%20sales%20and%20profits/Screenshots/Screenshot%202024-09-29%20022935.png)  
 Compared sales data for `Turkish`, `Italian`, and `Greek` cuisines from `2020` to `2022`, illustrating sales and profits.
 
 ### Task 5: Interactive Dashboard
-![Interactive Dashboard](path/to/interactive-dashboard.png)  
+![Interactive Dashboard](https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Create%20interactive%20dashboard%20for%20sales%20and%20profits/Screenshots/Screenshot%202024-09-29%20030356.png)  
 Created an interactive dashboard combining the `bar` and `bubble` charts, allowing users to filter data dynamically.
 
 
