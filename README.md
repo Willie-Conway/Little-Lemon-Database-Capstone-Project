@@ -24,7 +24,6 @@ This project is part of the **Meta Database Engineer Professional Certificate** 
 10. [Exercises](#exercises)
 11. [Tech Stack](#tech-stack)
 
-
 ## 📁Project Components
 
 1. **Database Design and Implementation**🗃️
