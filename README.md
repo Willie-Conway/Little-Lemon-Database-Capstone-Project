@@ -246,7 +246,7 @@ This capstone project for Little Lemon integrates database design, SQL implement
 * Thanks to **Meta** for the training and resources provided.🙏
 * Special gratitude to mentors and peers for their support and collaboration throughout the project.🤝
 
-##🏋🏿‍♂️Exercises
+## 🏋🏿‍♂️Exercises
 
 The following exercises were used as steps to complete the project in the correct order:
 
@@ -260,7 +260,7 @@ The following exercises were used as steps to complete the project in the correc
 8. [Set Up the Client Project](#set-up-the-client-project)
 9. [Add Query Functions](#add-query-functions)
 
-## ⚙️Tech Stack
+## ⚙️ Tech Stack
 
 The following technologies were utilized in the Little Lemon Database Capstone Project:
 
