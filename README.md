@@ -163,24 +163,24 @@ END;
 ## Data Analytics with Tableau
 
 ### Task 1: Customer Sales Bar Chart
-
-Created a bar chart visualizing customer sales for amounts over $70.
+![Customer Sales Bar Chart](path/to/customer-sales-bar-chart.png)  
+Created a bar chart visualizing customer sales for amounts over `$70`.
 
 ### Task 2: Sales Trend Line Chart
-
-Displayed the sales trend from 2019 to 2022, showcasing overall performance changes.
+![Sales Trend Line Chart](path/to/sales-trend-line-chart.png)  
+Displayed the sales trend from `2019` to `2022`, showcasing overall performance changes.
 
 ### Task 3: Sales Bubble Chart
-
-Developed a bubble chart representing sales data, with customer names and profit information displayed on hover.
+![Sales Bubble Chart](path/to/sales-bubble-chart.png)  
+Developed a `bubble` chart representing sales data, with customer names and profit information displayed on hover.
 
 ### Task 4: Cuisine Sales Comparison
-
-Compared sales data for Turkish, Italian, and Greek cuisines from 2020 to 2022, illustrating sales and profits.
+![Cuisine Sales Comparison](path/to/cuisine-sales-comparison.png)  
+Compared sales data for `Turkish`, `Italian`, and `Greek` cuisines from `2020` to `2022`, illustrating sales and profits.
 
 ### Task 5: Interactive Dashboard
-
-Created an interactive dashboard combining the bar and bubble charts, allowing users to filter data dynamically.
+![Interactive Dashboard](path/to/interactive-dashboard.png)  
+Created an interactive dashboard combining the `bar` and `bubble` charts, allowing users to filter data dynamically.
 
 
 ## Client Project Setup with Python
