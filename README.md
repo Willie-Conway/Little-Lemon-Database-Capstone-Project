@@ -19,10 +19,11 @@ This project is part of the **Meta Database Engineer Professional Certificate** 
 5. [SQL Queries](#sql-queries)
 6. [Data Analytics with Tableau](#data-analytics-with-tableau)
 7. [Client Project Setup with Python](#client-project-setup-with-python)
-8. [Conclusion](#conclusion)
-9. [Acknowledgments](#acknowledgments)
-10. [Exercises](#exercises)
-11. [Tech Stack](#tech-stack)
+8. [Exercises](#exercises)
+9. [Tech Stack](#tech-stack)  
+10. [Conclusion](#conclusion)
+11. [Acknowledgments](#acknowledgments)
+
 
 ## Project Components📁
 
@@ -237,14 +238,6 @@ print(results)
 
 ```
 
-## Conclusion
-
-This capstone project for Little Lemon integrates database design, SQL implementation, and data analytics. The insights derived from this project are valuable for enhancing operational decisions and strategies within the restaurant.
-
-## Acknowledgments
-
-* Thanks to **Meta** for the training and resources provided.🙏
-* Special gratitude to mentors and peers for their support and collaboration throughout the project.🤝
 
 ## Exercises🏋🏿‍♂️
 
@@ -280,6 +273,14 @@ The following technologies were utilized in the Little Lemon Database Capstone P
   - **`MySQL Workbench`:** For database design and management.
   - **`GitHub`:** For version control and project collaboration.
 
+## Conclusion
+
+This capstone project for Little Lemon integrates database design, SQL implementation, and data analytics. The insights derived from this project are valuable for enhancing operational decisions and strategies within the restaurant.
+
+## Acknowledgments
+
+* Thanks to **Meta** for the training and resources provided.🙏
+* Special gratitude to mentors and peers for their support and collaboration throughout the project.🤝
 
 
 <!--
