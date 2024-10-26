@@ -22,6 +22,7 @@ This project is part of the **Meta Database Engineer Professional Certificate** 
 8. [Conclusion](#conclusion)
 9. [Acknowledgments](#acknowledgments)
 10. [Exercises](#exercises)
+11. [Tech Stack](#tech-stack)
 
 
 ## 📁Project Components
@@ -60,7 +61,7 @@ The data model visually represents the entities involved in the Little Lemon dat
 
 ![ER Diagram](https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/LittleLemonDM.png) <!-- Replace with your actual image path -->
 
-## 📅Deploying the Data Model in MySQL
+## 🛢️Deploying the Data Model in MySQL
 
 To deploy the data model in MySQL, follow these steps:
 
@@ -68,7 +69,7 @@ To deploy the data model in MySQL, follow these steps:
 2. **Forward Engineer**: Use the Forward Engineer feature to generate the SQL schema based on the physical data model.
 3. **Execute SQL**: Run the generated SQL script in your MySQL server to create the Little Lemon schema.
 
-## 🛢️SQL Queries
+## 👨🏿‍💻SQL Queries
 
 ### Task 1: Create a Virtual Table
 
@@ -260,7 +261,7 @@ The following exercises were used as steps to complete the project in the correc
 8. [Set Up the Client Project](#set-up-the-client-project)
 9. [Add Query Functions](#add-query-functions)
 
-## Tech Stack
+## ⚙️Tech Stack
 
 The following technologies were utilized in the Little Lemon Database Capstone Project:
 
