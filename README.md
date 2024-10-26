@@ -169,7 +169,7 @@ Created an interactive dashboard combining the bar and bubble charts, allowing u
 
 ### Setup Steps
 
-### 1.Import MySQL Connector
+### 1. Import MySQL Connector
 
 ```sql
 
@@ -177,7 +177,7 @@ import mysql.connector as connector
 
 ```
 
-### 2.Connect to the Database
+### 2. Connect to the Database
 
 ```sql
 
@@ -185,7 +185,7 @@ connection = connector.connect(user="mario", password="cuisine")
 
 ```
 
-### 3.Create a Cursor
+### 3. Create a Cursor
 
 ```sql
 
@@ -193,7 +193,7 @@ cursor = connection.cursor()
 
 ```
 
-### 4.Set Database Context
+### 4. Set Database Context
 
 ```sql
 
@@ -201,7 +201,7 @@ cursor.execute("USE little_lemon")
 
 ```
 
-### 5.Execute Join Query Example
+### 5. Execute Join Query Example
 
 This query retrieves booking and order details for orders with a bill amount greater than $60.
 
