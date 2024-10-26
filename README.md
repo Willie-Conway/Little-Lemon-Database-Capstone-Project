@@ -60,7 +60,7 @@ The data model visually represents the entities involved in the Little Lemon dat
 
 ![ER Diagram](https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/LittleLemonDM.png) <!-- Replace with your actual image path -->
 
-## Deploying the Data Model in MySQL
+## 📅Deploying the Data Model in MySQL
 
 To deploy the data model in MySQL, follow these steps:
 
