@@ -8,7 +8,7 @@
 
 ## Overview
 
-This project is part of the Meta Database Engineer Professional Certificate program. It involves designing and implementing a database system for the fictional restaurant "Little Lemon." The project encompasses database modeling, SQL query creation, and data analysis using Tableau, providing insights into business performance and customer behavior.
+This project is part of the **Meta Database Engineer Professional Certificate** program. It involves designing and implementing a database system for the fictional restaurant "Little Lemon." The project encompasses database modeling, SQL query creation, and data analysis using Tableau, providing insights into business performance and customer behavior.
 
 ## 📖Table of Contents
 
