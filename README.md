@@ -24,7 +24,7 @@ This project is part of the **Meta Database Engineer Professional Certificate** 
 10. [Exercises](#exercises)
 11. [Tech Stack](#tech-stack)
 
-## 📁Project Components
+##📁Project Components
 
 1. **Database Design and Implementation**🗃️
    - Developed a logical data model representing the key entities and their relationships.
@@ -39,7 +39,7 @@ This project is part of the **Meta Database Engineer Professional Certificate** 
 3. **Data Analytics**📈
    - Utilized Tableau for data visualization, creating various charts and dashboards that provide insights into sales trends, customer behavior, and cuisine performance.
 
-## 🍋Little Lemon Data Model
+##🍋Little Lemon Data Model
 
 The data model visually represents the entities involved in the Little Lemon database and their relationships. Key components include:
 
@@ -56,7 +56,7 @@ The data model visually represents the entities involved in the Little Lemon dat
 - **Primary Keys**: Unique identifiers for each record within a table.
 - **Foreign Keys**: References that establish relationships between tables, ensuring data integrity.
 
-### 📈ER Diagram
+###📈ER Diagram
 
 ![ER Diagram](https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/LittleLemonDM.png) <!-- Replace with your actual image path -->
 
@@ -68,7 +68,7 @@ To deploy the data model in MySQL, follow these steps:
 2. **Forward Engineer**: Use the Forward Engineer feature to generate the SQL schema based on the physical data model.
 3. **Execute SQL**: Run the generated SQL script in your MySQL server to create the Little Lemon schema.
 
-## 👨🏿‍💻SQL Queries
+##👨🏿‍💻SQL Queries
 
 ### Task 1: Create a Virtual Table
 
@@ -160,7 +160,7 @@ END;
 
 ```
 
-## 📊Data Analytics with Tableau
+##📊Data Analytics with Tableau
 
 ### Task 1: Customer Sales Bar Chart
 ![Customer Sales Bar Chart](https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Create%20interactive%20dashboard%20for%20sales%20and%20profits/Screenshots/Screenshot%202024-09-29%20004030.png)  
@@ -183,7 +183,7 @@ END;
 **Created an interactive dashboard combining the `bar` and `bubble` charts, allowing users to filter data dynamically.**
 
 
-## 👨🏿‍💻Client Project Setup with Python
+##👨🏿‍💻Client Project Setup with Python
 
 ### Setup Steps
 
@@ -246,7 +246,7 @@ This capstone project for Little Lemon integrates database design, SQL implement
 * Thanks to **Meta** for the training and resources provided.🙏
 * Special gratitude to mentors and peers for their support and collaboration throughout the project.🤝
 
-## 🏋🏿‍♂️Exercises
+##🏋🏿‍♂️Exercises
 
 The following exercises were used as steps to complete the project in the correct order:
 
@@ -260,7 +260,7 @@ The following exercises were used as steps to complete the project in the correc
 8. [Set Up the Client Project](#set-up-the-client-project)
 9. [Add Query Functions](#add-query-functions)
 
-## ⚙️Tech Stack
+##⚙️Tech Stack
 
 The following technologies were utilized in the Little Lemon Database Capstone Project:
 
