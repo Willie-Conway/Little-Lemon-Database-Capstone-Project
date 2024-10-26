@@ -57,6 +57,19 @@ The data model visually represents the entities involved in the Little Lemon dat
 - **Primary Keys**: Unique identifiers for each record within a table.
 - **Foreign Keys**: References that establish relationships between tables, ensuring data integrity.
 
+  <p float="left">
+    <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Setting%20Up%20the%20Database/Screenshot%202024-09-28%20224949.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Setting%20Up%20the%20Database/Screenshot%202024-09-28%20225035.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Setting%20Up%20the%20Database/Screenshots/Screenshot%202024-09-28%20224304.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Set%20up%20the%20client%20project/Screenshots/Screenshot%202024-09-29%20145101.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Set%20up%20the%20Tableau%20Workspace%20for%20data%20analysis/Screenshots/Screenshot%202024-09-28%20234738.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Create%20optimized%20queries%20to%20manage%20and%20analyze%20data/Screenshots/Screenshot%202024-09-28%20034234.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Create%20interactive%20dashboard%20for%20sales%20and%20profits/Screenshots/Screenshot%202024-09-29%20004030.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Create%20interactive%20dashboard%20for%20sales%20and%20profits/Screenshots/Screenshot%202024-09-29%20065157.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Add%20query%20functions/Screenshots/Screenshot%202024-09-29%20181817.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Create%20interactive%20dashboard%20for%20sales%20and%20profits/Screenshots/Screenshot%202024-09-29%20034006.png" width="300" />
+</p>
+
 ### 📈ER Diagram
 
 ![ER Diagram](https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/LittleLemonDM.png) <!-- Replace with your actual image path -->
