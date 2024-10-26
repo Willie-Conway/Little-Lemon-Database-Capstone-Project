@@ -163,7 +163,7 @@ END;
 ## Data Analytics with Tableau
 
 ### Task 1: Customer Sales Bar Chart
-![Customer Sales Bar Chart](path/to/customer-sales-bar-chart.png)  
+![Customer Sales Bar Chart]([path/to/customer-sales-bar-chart.png](https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Create%20interactive%20dashboard%20for%20sales%20and%20profits/Screenshots/Screenshot%202024-09-29%20004030.png))  
 Created a bar chart visualizing customer sales for amounts over `$70`.
 
 ### Task 2: Sales Trend Line Chart
