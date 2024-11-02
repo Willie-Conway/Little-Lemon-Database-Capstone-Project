@@ -292,8 +292,8 @@ This capstone project for Little Lemon integrates database design, SQL implement
 
 ## Acknowledgments
 
-* Thanks to **Meta** for the training and resources provided.🙏
-* Special gratitude to mentors and peers for their support and collaboration throughout the project.🤝
+* Thanks to **Meta** for the training and resources provided.🙏🏿
+* Special gratitude to mentors and peers for their support and collaboration throughout the project.🫱🏿‍🫲🏿
 
 
 <!--
