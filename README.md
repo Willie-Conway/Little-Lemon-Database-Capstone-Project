@@ -2,7 +2,7 @@
 <!--![Meta Database Engineer](https://tinypic.host/images/2024/10/26/Meta-Database-Engineer.png)
 ![Little Lemon Restaurant](https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Images/Little%20Lemon%20Logo.png) -->
 <p float="left">
-    <img src="https://tinypic.host/images/2024/11/01/Meta-Database-Engineer.png" width="300" />
+    <img src="https://images.credly.com/size/340x340/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" width="300" />
     <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Images/Little%20Lemon%20Logo.png" width="300" />
 </p>
 
