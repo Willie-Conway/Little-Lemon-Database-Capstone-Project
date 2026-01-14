@@ -10,12 +10,10 @@
 
 ### **Live Dashboard Access**
 
-[![View Little Lemon Dashboard](https://img.shields.io/badge/📊_View_Interactive_Dashboard-667EEA?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/willie.conway2396/viz/LittleLemonDatabase/CuisineandYearlyProfitInsights)
+[![View Little Lemon Dashboard](https://img.shields.io/badge/📊_View_Interactive_Dashboard-667EEA?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/willie.conway2396/viz/LittleLemonDatabase/CuisineandYearlyProfitInsights) ![Preview](https://img.shields.io/badge/Preview-F97316?style=for-the-badge&logo=tableau&logoColor=white)
+![Little-Lemon-Database-Capstone-Project](https://github.com/Willie-Conway/Little-Lemon-Database-Capstone-Project/blob/5a65720f80e5501284f693a0caf8862c542e92aa/Screenshots/Cuisine%20and%20Yearly%20Profit%20Insights.gif)
 
 ### **Dashboard Components**
-
-#### **1. Cuisine and Yearly Profit Insights** 🍽️📈
-[![Cuisine & Yearly Profit Dashboard](https://img.shields.io/badge/🍽️_Cuisine_&_Yearly_Profit_Insights-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/willie.conway2396/viz/LittleLemonDatabase/CuisineandYearlyProfitInsights)
 
 **Features:**
 - **Cuisine Performance Analysis**: Compare sales across Turkish, Italian, and Greek cuisines
@@ -638,3 +636,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 *Project Completed: September 29, 2024*  
 *Last Updated: January 28, 2025*
+
