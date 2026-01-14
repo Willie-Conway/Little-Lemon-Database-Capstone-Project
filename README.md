@@ -62,7 +62,10 @@ This project is part of the **Meta Database Engineer Professional Certificate** 
     <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Create%20interactive%20dashboard%20for%20sales%20and%20profits/Screenshots/Screenshot%202024-09-29%20004030.png" width="300" />
     <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Create%20interactive%20dashboard%20for%20sales%20and%20profits/Screenshots/Screenshot%202024-09-29%20065157.png" width="300" />
     <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Add%20query%20functions/Screenshots/Screenshot%202024-09-29%20181817.png" width="300" />
-    <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Exercises/Create%20interactive%20dashboard%20for%20sales%20and%20profits/Screenshots/Screenshot%202024-09-29%20034006.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Little-Lemon-Database-Capstone-Project/blob/0621a777d3d9399e665fc01f5a084891989c08c9/Screenshots/Cuisine%20and%20Yearly%20Profit%20Insights.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Little-Lemon-Database-Capstone-Project/blob/0621a777d3d9399e665fc01f5a084891989c08c9/Screenshots/Customer%20Sales%20%26%20Profit%20Insights.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Little-Lemon-Database-Capstone-Project/blob/0621a777d3d9399e665fc01f5a084891989c08c9/Screenshots/Profit%20Chart.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Little-Lemon-Database-Capstone-Project/blob/0621a777d3d9399e665fc01f5a084891989c08c9/Screenshots/Sales%20Bubble%20Chart.png" width="300" />
 </p>
 
 ## 🛠️ Technical Stack
@@ -636,4 +639,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 *Project Completed: September 29, 2024*  
 *Last Updated: January 28, 2025*
+
 
