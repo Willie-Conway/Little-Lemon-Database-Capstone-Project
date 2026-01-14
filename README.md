@@ -3,7 +3,7 @@
 ![Little Lemon Restaurant](https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Images/Little%20Lemon%20Logo.png) -->
 <p float="left">
     <img src="https://images.credly.com/size/340x340/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" width="300" />
-    <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Images/Little%20Lemon%20Logo.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Little-Lemon-Database-Capstone-Project/blob/21ac25a587215eb76a3df617fb7e6b8a248c01b6/Images/Little%20Lemon.jpg" width="300" />
 </p>
 
 ## Overview
@@ -307,3 +307,4 @@ This capstone project for Little Lemon integrates database design, SQL implement
 8. [Set Up the Client Project](path/to/set-up-the-client-project.md)
 9. [Add Query Functions](path/to/add-query-functions.md)
 -->
+
